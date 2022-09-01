@@ -1,2 +1,0 @@
-export APP_PLEX_IP="10.21.21.48"
-export APP_PLEX_PORT="32400"
